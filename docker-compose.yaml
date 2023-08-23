@@ -148,7 +148,7 @@ services:
      - ubuntu2
      - ubuntu3
     ports:
-     - "1000:80"
+     - "10000:80"
     networks:
      - diveinto.io
 
